@@ -1,0 +1,5 @@
+서버 소켓 연결.
+
+ 01. 자바 소켓 통신.
+ 	Server_Test1 -> server -> MainServer 확인.
+ 	Client_test1 -> client -> MainClient 확인.
