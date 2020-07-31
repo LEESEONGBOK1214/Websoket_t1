@@ -1,0 +1,10 @@
+
+2. 클라이언트
+
+우선 송수신 스레드
+ ChatClient.java
+ ReceiveThread.java
+ SendThread.java
+파일을 생성해줍니다.
+
+<  ChatClient로 이동.  >
